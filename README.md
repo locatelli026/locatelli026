@@ -1,5 +1,5 @@
 - 👋 meu nome e @locatelli026
-- 👀 eu tenho enterese em 
+- 👀 eu tenho enterese em aprender a programar
 - 🌱 estou aprendendo no momento scrath
 - 💞️ procuro colaborar 
 - 📫 como chegar a mim
