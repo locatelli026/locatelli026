@@ -5,6 +5,6 @@
 - 📫 como chegar a mim
 
 <!---
-locatelli026/locatelli026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+locatelli026/locatelli026 is a ✨ special ✨ repository because its `README.md` (este arquivo) aparece no seu perfil do GitHub.
+voce pode clicar no link de visualização para dar umaolhada.
 --->
